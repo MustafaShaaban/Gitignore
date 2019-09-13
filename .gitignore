@@ -19,7 +19,8 @@
 /wp-trackback.php
 /xmlrpc.php
 
+/wp-content/index.php
 /wp-content/plugins/
 /wp-content/themes/twentynineteen/
 /wp-content/themes/twentyseventeen/
-/wp-content/index.php
+/wp-content/themes/index.php
